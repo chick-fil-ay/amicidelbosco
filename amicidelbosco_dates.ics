@@ -17,8 +17,8 @@ UID:2025-08-23-KantonGlarus@adb
 DTSTART;VALUE=DATE:20250823
 DTEND;VALUE=DATE:20250824
 SUMMARY:Kanton Glarus
-DESCRIPTION:Voraussichtlich eine Tageswanderung der Wanderpokal-Tagesrouten
-LOCATION:
+DESCRIPTION:Voraussichtlich eine Tageswanderung der Wanderpokal-Tagesrouten (https://glarnerland.ch/de/sommer/wandern/wanderpokal-glarnerland.html)
+LOCATION:https://maps.app.goo.gl/6dnVK54aByYzGP8a8
 END:VEVENT
 
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250830
 SUMMARY:Calanda (Chur, GR)
 DESCRIPTION:Voraussichtlich Aufstieg bis zum Felsberger Älpli und Übernachtung. Am frühen Morgen Aufstieg und Sonnenaufgang
-LOCATION:
+LOCATION:https://maps.app.goo.gl/dMy1PC9JyvHFCp1L6
 END:VEVENT
 
 BEGIN:VEVENT
@@ -36,7 +36,16 @@ DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250831
 SUMMARY:Stutzalp (Klosters, GR)
 DESCRIPTION:Voraussichtlicher Aufenthalt von Freitag auf Samstag mit Lager im geheimen Spot :)
-LOCATION:
+LOCATION:https://maps.app.goo.gl/PdLHavjWEe1wpSLH9
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13-Mededglia(Ticino,TI)@adb
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+SUMMARY:PLACEHOLDER Medeglia (Ticino, TI)
+DESCRIPTION:
+LOCATION:https://maps.app.goo.gl/PdLHavjWEe1wpSLH9
 END:VEVENT
 
 END:VCALENDAR
