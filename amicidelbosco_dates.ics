@@ -9,7 +9,7 @@ DTSTART;VALUE=DATE:20250808
 DTEND;VALUE=DATE:20250811
 SUMMARY:Brig (Kanton Wallis)
 DESCRIPTION:Voraussichtlich Hotel-Übernachtung vom 08.08 auf den 09.08. Outdoor vom 09.08 auf den 10.08
-LOCATION:Brig, Kanton Wallis, Schweiz
+LOCATION:https://maps.app.goo.gl/Wt6NvVmkjT4JmJtw8
 END:VEVENT
 
 BEGIN:VEVENT
