@@ -1,38 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//Reto's Wanderungen//EN
+PRODID:-//Amici del Bosco//EN
 
 BEGIN:VEVENT
-UID:2025-08-08-Brig(KantonWallis)@retowander
+UID:2025-08-08-Brig(KantonWallis)@adb
 DTSTART;VALUE=DATE:20250808
-DTEND;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250811
 SUMMARY:Brig (Kanton Wallis)
-DESCRIPTION:Hotel und/oder Outdoor-Übernachtung
+DESCRIPTION:Voraussichtlich Hotel-Übernachtung vom 08.08 auf den 09.08. Outdoor vom 09.08 auf den 10.08
+LOCATION: 47.1387° N, 7.2841° E
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-23-KantonGlarus@retowander
+UID:2025-08-23-KantonGlarus@adb
 DTSTART;VALUE=DATE:20250823
 DTEND;VALUE=DATE:20250824
 SUMMARY:Kanton Glarus
-DESCRIPTION:Tageswanderung
+DESCRIPTION:Voraussichtlich eine Tageswanderung der Wanderpokal-Tagesrouten
+LOCATION:
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-28-Calanda(Chur,GR)@retowander
+UID:2025-08-28-Calanda(Chur,GR)@adb
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250830
 SUMMARY:Calanda (Chur, GR)
-DESCRIPTION:Outdoor Übernachtung (Ausweichdatum)
+DESCRIPTION:Voraussichtlich Aufstieg bis zum Felsberger Älpli und Übernachtung. Am frühen Morgen Aufstieg und Sonnenaufgang
+LOCATION:
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-29-Stutzalp(Klosters,GR)@retowander
+UID:2025-08-29-Stutzalp(Klosters,GR)@adb
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250831
 SUMMARY:Stutzalp (Klosters, GR)
-DESCRIPTION:Outdoor Übernachtung
+DESCRIPTION:Voraussichtlicher Aufenthalt von Freitag auf Samstag mit Lager im geheimen Spot :)
+LOCATION:
 END:VEVENT
 
 END:VCALENDAR
